@@ -1,0 +1,13 @@
+
+ol {
+    list-style-type: upper-alpha;
+    background-color: aqua;
+    border: 5px solid red;
+}
+
+ul {
+    color: antiquewhite;
+    list-style-type: square;
+    background-color: palevioletred;
+    border: 5px solid black
+}

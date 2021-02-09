@@ -1,0 +1,18 @@
+table {
+    background-color: #e6deac;
+    border: 3px solid black;
+}
+
+td:hover {
+    background-color: aqua;
+    color: darkmagenta;
+}
+td {
+    background-color: #bcace6;
+    border: 1px solid black;
+}
+th {
+    background-color: azure;
+    color: brown;
+    border: 3px solid red;
+}
